@@ -1,6 +1,6 @@
 ## Installation
 
-### Create an environment
+### Create an environment(optional)
 Whatever you prefer (e.g. `conda` or `venv`)
 ```console
 mkdir myproject
